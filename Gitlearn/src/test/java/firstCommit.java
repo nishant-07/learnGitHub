@@ -6,5 +6,6 @@ public class firstCommit {
 		System.out.println("First Commit...");
 		System.out.println("Pulling Git repo");
 		System.out.println("Pulling Git repo");
+		System.out.println("Pulling Git repo12");
 	}
 }
